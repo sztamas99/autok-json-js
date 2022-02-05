@@ -1,0 +1,1 @@
+Múlt órán elkészített javascript alkalmazás, amivel JSON fileból tudunk autókat megjeleníteni.
